@@ -11,3 +11,8 @@ However, I encountered an unexpected issue while analyzing businesses in the "fo
 While working on this project, I encountered a few errors, such as KeyError and ZeroDivisionError. I had to debug these errors by carefully examining the code and the API responses. I also made use of caching to minimize API requests and speed up the program.
 
 Overall, I'm happy with how the project turned out. It allowed me to practice working with APIs, data processing, and I was able to gain some insights into the relationship between weather and businesses, despite the unexpected issue with the "food" category.
+
+# API keys
+yelp_api_key = '0C3hEulLGZgZltaMUVregmiySEXyXEdRT6r6wuaskGwtoePkE8UY4aBlDIEEjbjXOvS8HqU7hBP281OB-Y9VP0Dpf8aq1v2Jjp_0dL00cDFEoVbxTGD5vt87MeU2ZHYx'
+openweather_api_key = '30099990cbd27c1d3bb0f6e057256e94'
+WEATHER_API_KEY = '30099990cbd27c1d3bb0f6e057256e94'
